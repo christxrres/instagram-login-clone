@@ -7,7 +7,7 @@ Clone visual da página de login do Instagram, desenvolvido com **HTML5 e CSS3**
 
 ## 🚀 Demonstração
 
-🔗 GitHub Pages: *[link]*
+🔗 GitHub Pages: *[Link](https://christxrres.github.io/instagram-login-clone/)*
 
 ## 🛠️ Tecnologias utilizadas
 
